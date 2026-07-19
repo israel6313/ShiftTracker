@@ -19,7 +19,6 @@ import com.shifttracker.app.ui.theme.*
 import com.shifttracker.app.ui.viewmodel.DashboardViewModel
 import com.shifttracker.app.utils.DateTimeUtils
 import com.shifttracker.app.utils.WageCalculator
-import java.util.prefs.Preferences
 
 @Composable
 fun DashboardScreen(
