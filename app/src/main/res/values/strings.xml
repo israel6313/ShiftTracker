@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShiftTracker</string>
+    <string name="nav_dashboard">ראשי</string>
+    <string name="nav_shifts">משמרות</string>
+    <string name="nav_add">הוסף</string>
+    <string name="nav_jobs">עבודות</string>
+    <string name="nav_settings">הגדרות</string>
+</resources>
